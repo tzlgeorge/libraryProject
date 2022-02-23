@@ -1,3 +1,4 @@
 # libraryProject##s
 
-# This is a library containing functions that are useful for the data set.
+##### This is a library containing functions that are useful for checking information regarding incarceration in each US state.
+# 
