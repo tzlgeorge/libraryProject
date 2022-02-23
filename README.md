@@ -6,3 +6,4 @@
 ###### @param state {string} - the full name of a state for which to check the total number of incarcerated.
 ###### @return {number} - the number of total adults in correctional facilities in the given state.
 ##### `function getStateIncar(state)`
+#
